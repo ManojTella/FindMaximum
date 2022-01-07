@@ -21,7 +21,7 @@ def max_marks(marks):
     large=marks[-1]
     return large
  ```
-ii)	# To find the maximum marks using the list method max().
+ ii)# To find the maximum marks using the list method max().
 ```
 Program to find the maximum marks using the list method max().
 Developed by: Manoj Guna Sundar Tella
@@ -50,6 +50,8 @@ def max_marks(list1):
 ![output](./img/max_marks1.jpg) 
 
 ## Output:
+i) #To find the maximum of marks using the list method sort.
+![Github logo](max.png)
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
